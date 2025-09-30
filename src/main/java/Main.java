@@ -20,7 +20,7 @@ public class Main {
         address(myScanner, myBuilder, "Shipping");
 
         System.out.println("\nCustomer Information:");
-        System.out.println(myBuilder.toString());
+        System.out.println(myBuilder);
 
     }
 
